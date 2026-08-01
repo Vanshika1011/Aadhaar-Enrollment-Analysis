@@ -47,13 +47,10 @@ The dataset contains Aadhaar enrollment records with information such as:
 ```
 Aadhaar-Enrollment-Analysis
 │
-├── Aadhar_Enrollment.ipynb
-├── aadhaar_enrollment.csv
-├── README.md
-└── images
-    ├── district_enrollment.png
-    ├── age_group_enrollment.png
-    └── top_pincodes.png
+├── Aadhaar_Enrollment_Analysis.ipynb
+├── maharashtra_aadhaar_enrollment.csv
+├── Aadhaar_Enrollment_Project_Report.pdf
+└── README.md
 ```
 
 ---
