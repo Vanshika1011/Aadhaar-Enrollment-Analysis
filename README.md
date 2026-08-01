@@ -63,7 +63,7 @@ Aadhaar-Enrollment-Analysis
 
 ## District-wise Aadhaar Enrollment
 
-<img width="1389" height="790" alt="district wise analysis" src="https://github.com/user-attachments/assets/acc15734-0626-4fc4-997e-8c1809e43e03" />
+<img width="1289" height="690" alt="district wise analysis" src="https://github.com/user-attachments/assets/acc15734-0626-4fc4-997e-8c1809e43e03" />
 
 
 This visualization compares Aadhaar enrollment across districts, highlighting the regions with the highest and lowest enrollment.
@@ -72,7 +72,7 @@ This visualization compares Aadhaar enrollment across districts, highlighting th
 
 ## Age Group-wise Enrollment
 
-<img width="700" height="470" alt="age group-wise analysis" src="https://github.com/user-attachments/assets/8866380c-2e02-4aec-9ae4-869bffb52ce7" />
+<img width="600" height="370" alt="age group-wise analysis" src="https://github.com/user-attachments/assets/8866380c-2e02-4aec-9ae4-869bffb52ce7" />
 
 
 This chart shows the distribution of Aadhaar enrollments among different age groups.
@@ -81,7 +81,7 @@ This chart shows the distribution of Aadhaar enrollments among different age gro
 
 ## Top 10 Pincodes by Enrollment
 
-<img width="989" height="590" alt="top 10 picodes" src="https://github.com/user-attachments/assets/e7afb9e5-b1e9-44e2-8948-989ad9d4fbaf" />
+<img width="889" height="490" alt="top 10 picodes" src="https://github.com/user-attachments/assets/e7afb9e5-b1e9-44e2-8948-989ad9d4fbaf" />
 
 
 This visualization identifies the top 10 pincodes with the highest Aadhaar enrollment.
